@@ -1,5 +1,5 @@
 # Problem-Lead-Scoring-Classification
-Data - https://docs.google.com/spreadsheets/d/1rK1CLqpsd6JfSBLk9nRE-f0NzDc9lEXgxZ-cKjxIN_s/edit?usp=sharing
+Data - https://docs.google.com/spreadsheets/d/1Urkc-Z2EXwuRJbVmoUtYTdo07oh2hgZoGJ9Ud-Sj000/edit#gid=0
 
 Data Cleaning ( including Feature Selection);
 Training ( on Y percent of data) Testing ( on (100-Y) percent of data);
